@@ -3,6 +3,9 @@ using System.Web.Http;
 
 namespace RunningJournalApi
 {
+    /// <summary>
+    /// BootStrap class
+    /// </summary>
     public class Bootstrap
     {
         public Bootstrap()
