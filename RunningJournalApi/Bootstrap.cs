@@ -1,5 +1,4 @@
 ﻿using Newtonsoft.Json.Serialization;
-using System;
 using System.Web.Http;
 
 namespace RunningJournalApi
